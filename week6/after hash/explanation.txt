@@ -1,0 +1,1 @@
+After hashing names for indexes, the total cost became much less: 4.01
