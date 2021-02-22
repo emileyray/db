@@ -1,2 +1,2 @@
-After hashing names for indexes, the total cost became much less: 4.01
-After sorting the addresses into b-tress, the total cost became much less as well: 8.02
+After hashing the names for indexes, the total cost became much less: 4.01
+After hashing the addresses for indexes, the total cost became much less as well: 8.44
