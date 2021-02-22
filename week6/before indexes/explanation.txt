@@ -1,0 +1,1 @@
+Before applying indexes the total cost was 4140.
