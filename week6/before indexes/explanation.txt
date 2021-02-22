@@ -1,1 +1,2 @@
-Before applying indexes the total cost was 4140.
+Before applying indexes the total cost when searching for a name was 4140.
+Before applying indexes the total cost when searcghin for addresses was 4390.
